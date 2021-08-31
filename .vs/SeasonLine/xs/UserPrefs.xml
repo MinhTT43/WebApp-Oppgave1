@@ -1,23 +1,24 @@
 ﻿<Properties StartupConfiguration="{377E5B7D-A5D6-4E78-8B87-CBC0B204ADFE}|Default">
   <MonoDevelop.Ide.ItemProperties.SeasonLine PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SeasonLine/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeasonLine/DAL/BestillingContext.cs">
     <Files>
-      <File FileName="SeasonLine/Properties/launchSettings.json" Line="14" Column="21" />
+      <File FileName="SeasonLine/Properties/launchSettings.json" Line="22" Column="31" />
       <File FileName="SeasonLine/wwwroot/index.html" />
       <File FileName="SeasonLine/Startup.cs" />
-      <File FileName="SeasonLine/DAL/BestillingController.cs" />
+      <File FileName="SeasonLine/DAL/BestillingController.cs" Line="33" Column="16" />
       <File FileName="SeasonLine/Model/Bestilling.cs" />
+      <File FileName="SeasonLine/DAL/BestillingContext.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SeasonLine" expanded="True">
             <Node name="SeasonLine" expanded="True">
-              <Node name="DAL" expanded="True" />
-              <Node name="Model" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="BestillingContext.cs" selected="True" />
               </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
